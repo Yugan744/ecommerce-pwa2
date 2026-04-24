@@ -1,8 +1,9 @@
 {
-  "name": "Ecommerce PWA",
-  "short_name": "Shop",
+  "name": "Ecommerce Store",
+  "short_name": "Store",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#0000ff"
+  "theme_color": "#0000ff",
+  "description": "Simple Ecommerce Progressive Web App"
 }
